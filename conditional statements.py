@@ -11,5 +11,4 @@ elif age < 60:
 elif age < 100:
     print("You are a senior citizen.")
 else:
-    print("You lying")
-
+    print("You are lying")
